@@ -1,0 +1,8 @@
+export DATABASEURL=mongodb://localhostlocalhost:27017/yelp_camp
+
+after making changes:
+    git status
+    git add .
+    git commit -m ""
+    git push heroku master
+    
