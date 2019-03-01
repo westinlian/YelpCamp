@@ -1,5 +1,5 @@
 # YelpCamp
-Learning how to create/deploy a functional website from scratch!
+Learning how to create/deploy a functional website from scratch! Based on Colt Steele's Udemy course
 
 The site still lacks some main functionalities, but I finally have implemented Passport.js to introduce post/comment ownership. 
 
